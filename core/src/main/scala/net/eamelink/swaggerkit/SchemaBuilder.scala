@@ -1,5 +1,6 @@
 package net.eamelink.swaggerkit
 
+import scala.language.implicitConversions
 /**
  * Trait with methods for building Schemas
  */
